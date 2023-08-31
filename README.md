@@ -1,7 +1,7 @@
 # Welcome to Turf-Tracker-Application
 
 ## Project: Turf-Tracker Web Application using Java Platform
-🚀 **kRIDANGANs** is an innovative Turf-Booking platform that aims to provide unparalleled convenience to both clients and Turf Owner. Our primary objective is to tackle the challenges posed by traditional manual systems and offer a comprehensive solution that streamlines every aspect of Turf Booking.
+🚀 **KRIDANGANs** is an innovative Turf-Booking platform that aims to provide unparalleled convenience to both clients and Turf Owner. Our primary objective is to tackle the challenges posed by traditional manual systems and offer a comprehensive solution that streamlines every aspect of Turf Booking.
 
 ## Key Features:
 
