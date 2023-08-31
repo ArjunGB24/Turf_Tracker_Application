@@ -1,0 +1,126 @@
+/* Spot Banner Section */
+.spot-banner {
+  background: url("https://www.playspots.in/wp-content/uploads/2018/10/partnerwithusBg.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 50vh;
+}
+
+/* Partners Section */
+.partners {
+  background: #000000;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 5% 0 10%;
+}
+.partners .row {
+  margin-left: -30px;
+  margin-right: -30px;
+}
+.partners [class*="col-"] {
+  padding: 0 30px;
+}
+.partner-box {
+  text-align: center;
+  margin: 30px 0;
+}
+.partner-box img {
+  width: auto;
+  height: 70px;
+}
+.partner-box h6 {
+  color: white;
+  font-size: 15px;
+}
+.partner-box p {
+  color: white;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+/* Partnership Form Section */
+.partnership {
+  background-color: white;
+  border-radius: 9px;
+  margin-top: -5%;
+  padding: 25px 25px 50px;
+  box-shadow: 0px 0px 5px -2px rgba(0, 0, 0, 0.56);
+}
+.partnership h4 {
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
+}
+.partnership-field {
+  width: 100%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #bcbdc1;
+  margin: 15px 0;
+}
+.partnership-field::placeholder,
+select.partnership-field {
+  color: #bbbcbe;
+}
+.partnership .btn {
+  margin-top: 30px;
+  background: linear-gradient(
+    to right,
+    rgba(8, 151, 73, 1),
+    rgba(81, 176, 68, 1),
+    rgba(136, 194, 65, 1)
+  );
+  color: white;
+  padding: 4px 12px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 9px;
+  margin-bottom: 6px;
+  transition: all 0.5s;
+}
+.partnership .btn:hover,
+.partnership .btn:focus,
+.partnership .btn:active {
+  background: linear-gradient(
+    to right,
+    rgba(133, 195, 62, 1),
+    rgba(6, 149, 68, 1),
+    rgba(6, 149, 68, 1)
+  ) !important;
+  transition: all 0.3s !important;
+}
+
+/* Features Section */
+.featutres .row {
+  margin-left: -30px;
+  margin-right: -30px;
+}
+.featutres [class*="col-"] {
+  padding: 0 30px;
+}
+.feature-box {
+  text-align: center;
+  margin: 30px 0;
+}
+.feature-box img {
+  width: auto;
+  height: 70px;
+}
+.feature-box h6 {
+  color: white;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.feature-box p {
+  color: white;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: 14px;
+  opacity: 0.8;
+}

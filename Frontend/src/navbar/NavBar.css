@@ -1,0 +1,120 @@
+/* .navbar-custom {
+ 
+  background: linear-gradient(rgba(4, 168, 100, 1), rgba(106, 193, 96, 1));
+  box-shadow: 0 10px 30px 0px rgba(0, 0, 0, 0.2);
+} */
+.navbarrr {
+  background: linear-gradient(
+    rgba(4, 168, 100, 1),
+    rgba(106, 193, 96, 1)
+  ) !important;
+  box-shadow: 0 10px 30px 0px rgba(0, 0, 0, 0.2) !important;
+}
+.logo1 {
+  height: 60px;
+  width: 120px;
+}
+.menuicon {
+  color: white;
+}
+Span {
+  background-color: white !important;
+}
+.bgmenu {
+  background-color: white !important;
+}
+
+@media screen and (min-width: 1004px) {
+  .logo {
+    height: 50px;
+    width: 130px;
+  }
+}
+
+@media screen and (min-width: 994px) {
+  .logo {
+    height: 30px;
+    width: 100px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .logo {
+    height: 20px;
+    width: 80px;
+  }
+}
+
+.linktab li a,
+button {
+  color: white !important;
+}
+.linktab li a:hover {
+  background: #f16c16;
+  border-radius: 4px;
+}
+
+.navBtnReg {
+  margin-left: 10px;
+  margin-right: 10px;
+  background: #f16c16;
+  color: white;
+  border-color: transparent;
+}
+
+.navbar-custom .navbar-brand {
+  color: #000000;
+}
+
+/* .navbar-custom .navbar-nav {
+  background-color: #ffffff;
+} */
+
+/* .navbar-custom .navbar-nav a {
+  color: #000000;
+  padding: 5px 30px !important;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-top: 10px;
+} */
+
+/* .navbar-nav li a:hover:after {
+  content: "";
+ 
+  margin-top: 6px;
+  width: auto;
+  
+  display: block;
+  clear: both;
+  
+} */
+
+/* .navbar-nav li a:hover:after {
+  border-bottom: 4px solid #4cdb13;
+} */
+
+/* .navbtn {
+  border: none !important;
+  outline: none !important;
+  padding: 5px 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+  border-radius: 10px;
+  font-weight: 600;
+  color: white !important;
+  opacity: 0.8;
+  box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.16);
+  background: linear-gradient(45deg, #020202 1%, #000000 100%) !important;
+} */
+/* 
+.my-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(0,0,0)' stroke-width='3' stroke-linecap='square' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+} */
+
+/* .my-toggler .navbar-toggler {
+  border-color: rgb(0, 0, 0);
+} */
+
+.option {
+  background-color: rgb(20, 19, 19) !important;
+  color: red !important;
+}

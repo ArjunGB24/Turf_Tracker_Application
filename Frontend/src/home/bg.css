@@ -1,0 +1,83 @@
+body {
+  background-image: url("C:\Users\hp\Desktop\Kridangan\turf\project-main\Frontend\src\images\LandingPagebg.jpeg");
+  color: #000;
+  overflow-x: hidden;
+  background-repeat: no-repeat;
+  background-size: 130% 45%;
+  /* backdrop-filter: blur(2px); */
+}
+.main {
+  background-image: url("../images/background.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.abc {
+  border: 2ps solid black;
+}
+h3,
+h5 {
+  color: white;
+}
+.mynav {
+  position: sticky;
+}
+.main {
+  width: 100%;
+  padding-top: 60px;
+  backdrop-filter: blur(8px);
+  /* height: 640px; */
+}
+.main1 {
+  width: 100%;
+  padding-top: 10px;
+  backdrop-filter: blur(4px);
+  height: 700px;
+  background-image: url("../images/bg5.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+/* .navbar {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+} */
+.login {
+  /* border: 1px solid black; */
+  /* background: rgba(255, 255, 255, 0.5) !important; */
+  /* filter: drop-shadow(0,2,0,black); */
+  background: rgba(0, 0, 0, 0.3) !important;
+
+  filter: drop-shadow(0px 10px 4px black);
+  border-radius: 5px;
+}
+
+button {
+  color: white !important;
+}
+.navBtnLogin {
+  margin-left: 10px;
+  margin-right: 10px;
+  background: #4caf50;
+  color: white;
+  border-color: transparent;
+}
+.navBtnReg {
+  margin-left: 10px;
+  margin-right: 10px;
+  background: #f16c16;
+  color: white;
+  border-color: transparent;
+}
+.rdo input {
+  padding: 10px;
+  color: white;
+  border: 2px solid white;
+}
+.reg {
+  color: white;
+}
+.rdo {
+  margin: 20px;
+  color: white;
+}

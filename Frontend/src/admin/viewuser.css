@@ -1,0 +1,25 @@
+td {
+  color: aliceblue;
+}
+
+.view {
+  background-image: url("../images/bg5.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.viewuser {
+  background: rgba(0, 0, 0, 0.5);
+  padding-top: 70px;
+  width: auto;
+}
+
+.btn:hover {
+  background-color: green !important;
+  border: transparent !important;
+}
+
+.btn {
+  border-color: white !important;
+  width: 80px;
+}
