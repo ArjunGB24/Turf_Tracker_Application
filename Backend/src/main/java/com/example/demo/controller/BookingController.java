@@ -167,7 +167,7 @@ public class BookingController {
 	
 	@DeleteMapping("/cancelBooking/{bookingId}")
 	public ResponseEntity<?> deleteBooking(@PathVariable int bookingId) {
-		System.out.println("Delete Account "+bookingId);
+		System.out.println("Delete Account " + bookingId);
 		return new ResponseEntity<>(bookingService.deleteBooking(bookingId), HttpStatus.OK);
 		//return ResponseEntity.ok(userService.deleteAccount(id));
 	}
